@@ -1,0 +1,1 @@
+export const selectAppTheme = (state) => state.appTheme.isDarkMode;
